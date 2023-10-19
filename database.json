@@ -1,0 +1,13 @@
+{
+    "dev": {
+      "driver": "pg",
+      "user": "postgres",
+      "password": "231094",
+      "host": "localhost",
+      "database": "test_migrate",
+      "port": "5432",
+      "schema": "public"
+    },
+  
+    "other": "postgres://uname:pw@server.com/dbname"
+  }
